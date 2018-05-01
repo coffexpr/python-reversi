@@ -46,8 +46,3 @@ Install
 ``` bash
 $ python setup.py install
 ```
-
-Licence
--------
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
