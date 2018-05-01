@@ -60,6 +60,7 @@ class ConsoleReversi(Reversi):
 
     def start(self):
         while True:
+            stdout.write('-' * 20 + '\n')
             os.system('clear')
             try:
                 self.game.next_state()
