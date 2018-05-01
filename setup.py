@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 package = 'Python reversi'
 version = '0.1'
@@ -12,4 +12,4 @@ setup(name=package,
               'reversi = reversi.main:command',
           ],
       },
-      url='https://')
+      url='https://github.com/coffexpr/python-reversi')
